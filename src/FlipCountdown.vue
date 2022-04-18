@@ -264,7 +264,7 @@ export default {
 }
 
 @halfHeight: 0.72em;
-@borderRadius: 28px !important;
+@borderRadius: 24px;
 
 .flip-card {
     display: block;
