@@ -291,8 +291,8 @@ export default {
 .flip-card__back::after {
     display: block;
     height: @halfHeight;
-    color: #909497;
-    background: #222;
+    color: #1ABC9C;
+    background: #212F3C;
     padding: 0.23em 0.15em 0.4em;
     border-radius: @borderRadius @borderRadius 0 0;
     backface-visibility: hidden;
@@ -309,8 +309,8 @@ export default {
 .flip-card__back-4digits::after {
     display: block;
     height: @halfHeight;
-    color: #909497;
-    background: #222;
+    color: #1ABC9C;
+    background: #212F3C;
     padding: 0.23em 0.15em 0.4em;
     border-radius: @borderRadius @borderRadius 0 0;
     backface-visibility: hidden;
@@ -328,8 +328,8 @@ export default {
     position: absolute;
     top: 50%;
     left: 0;
-    border-top: solid 1px #000;
-    background: #393939;
+    border-top: solid 1px #1B2631;
+    background: #34495E;
     border-radius: 0 0 @borderRadius @borderRadius;
     pointer-events: none;
     overflow: hidden;
