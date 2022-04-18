@@ -291,7 +291,7 @@ export default {
 .flip-card__back::after {
     display: block;
     height: @halfHeight;
-    color: #A6ACAF;
+    color: #909497;
     background: #222;
     padding: 0.23em 0.15em 0.4em;
     border-radius: @borderRadius @borderRadius 0 0;
@@ -309,7 +309,7 @@ export default {
 .flip-card__back-4digits::after {
     display: block;
     height: @halfHeight;
-    color: #A6ACAF;
+    color: #909497;
     background: #222;
     padding: 0.23em 0.15em 0.4em;
     border-radius: @borderRadius @borderRadius 0 0;
